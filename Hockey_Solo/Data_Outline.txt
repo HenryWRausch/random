@@ -1,0 +1,80 @@
+
+
+Player_List
+    Rest point for gathering all historical players for detailed search later, 
+    all information pulled from https://www.hockey-reference.com/players/[Letter]/
+
+reference_id    - TEXT
+    Hockey-Reference id, Ex: ovechal01
+name            - TEXT
+    Full name of player, Ex: Zdeno Chára
+name_flat       - TEXT
+    Name flattened for no diacritics, Ex: Zdeno Chara
+position        - TEXT
+    Player position as listed on the players page, Ex: C/LW
+first_year      - INT
+    First year played, Ex: 1998
+last_year       - INT
+    Last year played, Ex: 2001
+hof             - INT
+    1 if player was in HOF, 0 otherwise. Ex: 1 BROKEN FROM HOCKEYREFERENCE
+
+Goalie_Overview
+    General stats for goaltenders: Season Age Team GP GS W L T/O GA 
+    Shots SV SV% GAA SO MIN QS QS% RBS GA%- GSAA GAA/A GPS G 
+    A PTS PIM Awards
+
+id                              - TEXT
+    hockey-reference ID combined with season, e.g., lindgch01_2024-25
+season                          - TEXT
+    season the data applies to, e.g., 2024-25
+team                            - TEXT
+    abbreviation of the team the goaltender played for, e.g., WSH
+games_played                    - INTEGER
+    number of games played in the season, e.g., 50
+games_started                   - INTEGER
+    number of games started in the season, e.g., 50
+wins                            - INTEGER
+    number of games won, e.g., 18
+losses                          - INTEGER
+    number of games lost, e.g., 12
+ties_plus_overtime_losses       - INTEGER
+    total of ties plus overtime and shootout losses, e.g., 3
+goals_against                   - INTEGER
+    total number of goals allowed, e.g., 91
+shots_against                   - INTEGER
+    total number of shots faced, e.g., 982
+save_percentage                 - REAL
+    proportion of shots saved, e.g., 0.896
+goals_against_average           - REAL
+    average number of goals allowed per game, e.g., 3.02
+shutouts                        - INTEGER
+    number of games with zero goals allowed, e.g., 2
+time_on_ice_seconds             - INTEGER
+    total number of seconds played, e.g., 122520
+quality_starts                  - INTEGER
+    number of starts with save percentage above league average or ≥ 88.5% while allowing two or fewer goals, e.g., 2
+quality_start_percentage        - REAL
+    quality starts divided by games started
+really_bad_starts               - INTEGER
+    number of starts with save percentage below 85%, e.g., 3
+goals_against_above_league_avg - REAL
+    difference between the goaltender’s goals against and the league average, e.g., 104
+goals_saved_above_average       - REAL
+    GSAA; how many more or fewer goals a goaltender allowed compared to a league-average goalie facing the same number of shots, e.g., 7.5
+adjusted_goals_against_average  - REAL
+    GAA/A; goals against average adjusted for league scoring environment or quality of opposition, e.g., 2.15
+games_played_as_starter         - INTEGER
+    GPS; number of games played where the goalie was the starter, e.g., 41
+goals_scored                    - INTEGER
+    G; goals scored by the goaltender (rare, typically in empty-net situations), e.g., 1
+assists                         - INTEGER
+    A; assists recorded by the goaltender, often from passes leading directly to goals, e.g., 4
+points                          - INTEGER
+    PTS; total offensive points (goals + assists), e.g., 5
+penalty_minutes                 - INTEGER
+    PIM; total penalty minutes assessed (e.g., delay of game, roughing), e.g., 12
+awards                          - TEXT
+    honors or recognitions received; includes league awards, all-star selections, or MVPs; represented as a list of strings, e.g., ["All-Star", "Best Goaltender 2024"]
+
+

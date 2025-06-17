@@ -1,0 +1,4 @@
+OVERALL GOAL - To do a better job alone of my final project for Data Architecture
+
+Evaluate a correlation between various statistics and salary for hockey, potentially predicting a player's salary 
+

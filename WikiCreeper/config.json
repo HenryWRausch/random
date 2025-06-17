@@ -1,0 +1,6 @@
+{
+    "memory": "mapping",
+    "global_pages": ["Main_Page"],
+    "master_memory": "data.csv",
+    "database_file": "database.db"
+}

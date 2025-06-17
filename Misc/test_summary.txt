@@ -1,0 +1,289 @@
+PW
+Max Distance: 152
+Min Distance: 125
+Raw Average Distance: 135
+Smart Average Distance: 139
+Median Distance: 132.5
+Mode Distance: 152
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+GW
+Max Distance: 108
+Min Distance: 90
+Raw Average Distance: 100
+Smart Average Distance: 103
+Median Distance: 101.0
+Mode Distance: 108
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+SW
+Max Distance: 122
+Min Distance: 72
+Raw Average Distance: 92
+Smart Average Distance: 92
+Median Distance: 90.0
+Mode Distance: 102
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+LW
+Max Distance: 105
+Min Distance: 52
+Raw Average Distance: 77
+Smart Average Distance: 83
+Median Distance: 78.5
+Mode Distance: 105
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+PW
+Max Distance: 152
+Min Distance: 125
+Raw Average Distance: 135
+Smart Average Distance: 139
+Median Distance: 132.5
+Mode Distance: 152
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+GW
+Max Distance: 108
+Min Distance: 90
+Raw Average Distance: 100
+Smart Average Distance: 103
+Median Distance: 101.0
+Mode Distance: 108
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+SW
+Max Distance: 122
+Min Distance: 72
+Raw Average Distance: 92
+Smart Average Distance: 92
+Median Distance: 90.0
+Mode Distance: 102
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+LW
+Max Distance: 105
+Min Distance: 52
+Raw Average Distance: 77
+Smart Average Distance: 83
+Median Distance: 78.5
+Mode Distance: 105
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+PW
+Max Distance: 153
+Min Distance: 125
+Raw Average Distance: 139
+Smart Average Distance: 139
+Median Distance: 135
+Mode Distance: 153
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+GW
+Max Distance: 115
+Min Distance: 90
+Raw Average Distance: 103
+Smart Average Distance: 103
+Median Distance: 107
+Mode Distance: 115
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+SW
+Max Distance: 122
+Min Distance: 72
+Raw Average Distance: 93
+Smart Average Distance: 93
+Median Distance: 93
+Mode Distance: 102
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+LW
+Max Distance: 105
+Min Distance: 52
+Raw Average Distance: 76
+Smart Average Distance: 81
+Median Distance: 75
+Mode Distance: 105
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+PW
+Max Distance: 95
+Min Distance: 58
+Raw Average Distance: 76
+Smart Average Distance: 95
+Median Distance: 76.5
+Mode Distance: 95
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+PW
+Max Distance: 153
+Min Distance: 125
+Raw Average Distance: 139
+Smart Average Distance: 139
+Median Distance: 135
+Mode Distance: 153
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+GW
+Max Distance: 115
+Min Distance: 90
+Raw Average Distance: 103
+Smart Average Distance: 103
+Median Distance: 107
+Mode Distance: 115
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+SW
+Max Distance: 122
+Min Distance: 72
+Raw Average Distance: 93
+Smart Average Distance: 93
+Median Distance: 93
+Mode Distance: 102
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+
+LW
+Max Distance: 105
+Min Distance: 52
+Raw Average Distance: 76
+Smart Average Distance: 81
+Median Distance: 75
+Mode Distance: 105
+
+Strike Breakdown (PUSH, PULL, PURE): 0, 0, 0
+Strike Ratios (PUSH, PULL, PURE): 0.00%, 0.00%, 0.00%
+
+Path Breakdown (HOOK, SLICE, PURE): 0, 0, 0
+Path Ratios (HOOK, SLICE, PURE): 0.00%, 0.00%, 0.00%
+
+Contact Breakdown (THIN, FAT, PURE): 0, 0, 0
+Contact Ratios (THIN, FAT, PURE): 0.00%, 0.00%, 0.00%
+

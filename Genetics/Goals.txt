@@ -1,0 +1,4 @@
+x Create a database of members of different "species" 
+- Simulate crosses between same species pairs, defining both genotype and phenotype
+- Ultimately implement a UI
+- No code written by GenAI

@@ -1,0 +1,76 @@
+Conventions:
+- Plural table names
+- Underscores
+- Primary key always "id"
+- Foreign key always references id
+- Foreign keys named "fk_[fk table]_[pk table]"
+- SQLite doesn't enforce limits, so TEXT > VARCHAR(n)
+- No booleans in SQLite either
+
+Table - traits:
+id - Autoincrement, Primary Key, Integer
+trait_name - Text, not null
+species - foreign key -> species, not null, cascade on delete
+
+CREATE TABLE traits (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    trait_name TEXT NOT NULL,
+    species INTEGER NOT NULL,
+    FOREIGN KEY (species) REFERENCES species(id) ON DELETE CASCADE
+        CONSTRAINT fk_traits_species
+);
+
+Table - trait_variants:
+id - Autoincrement, Primary Key, Integer
+trait - Integer, foreign key -> traits, cascade on delete, not null
+phenotype_expression - Text, Not null
+allele_expression - Text, Not null
+is_dominant - Integer, Not null
+co_dominance - Integer, Foreign key -> trait_variants, set null on delete
+
+CREATE TABLE trait_variants (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    phenotype_expression TEXT NOT NULL,
+    allele_expression TEXT NOT NULL,
+    is_dominant INTEGER NOT NULL,
+    trait INTEGER NOT NULL,
+    co_dominance INTEGER,
+    FOREIGN KEY (trait) REFERENCES traits(id) ON DELETE CASCADE
+        CONSTRAINT fk_trait_variants_traits,
+    FOREIGN KEY (co_dominance) REFERENCES trait_variants(id) ON DELETE SET NULL
+        CONSTRAINT fk_trait_variants_trait_variants
+);
+
+Table - species:
+id - Autoincrement, Primary Key, Integer
+scientific_name - Text, Unique
+name - Text
+
+CREATE TABLE species (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    scientific_name TEXT UNIQUE,
+    name TEXT
+);
+
+Table - specimens:
+id - Autoincrement, Primary Key, Integer
+species - Integer, Foreign Key -> species, cascade on delete, not null
+name - Text
+genotype - Text, not null
+parent_a - Integer, Foreign Key -> specimens, set null on delete
+parent_b - Integer, Foreign Key -> specimens, set null on delete
+
+CREATE TABLE specimens (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT,
+    genotype TEXT NOT NULL,
+    species INTEGER NOT NULL,
+    parent_a INTEGER,
+    parent_b INTEGER,
+    FOREIGN KEY (species) REFERENCES species(id) ON DELETE CASCADE
+        CONSTRAINT fk_specimens_species,
+    FOREIGN KEY (parent_a) REFERENCES specimens(id) ON DELETE SET NULL
+        CONSTRAINT fk_specimens_specimens_a,
+    FOREIGN KEY (parent_b) REFERENCES specimens(id) ON DELETE SET NULL
+        CONSTRAINT fk_specimens_specimens_b
+);
